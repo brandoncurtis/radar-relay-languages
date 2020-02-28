@@ -147,8 +147,8 @@ export default {
   // Wallet General
   'SEND_TO': 'Send To',
   'SUCCESSFULLY_SENT': 'Successfully sent',
-  'OPEN_WALLET': 'Open Wallet',
-  'CLOSE_WALLET': 'Close Wallet',
+  'OPEN_WALLET': 'Open Portfolio',
+  'CLOSE_WALLET': 'Close Portfolio',
   'INSTALL_METAMASK': 'Install Metamask',
   'YOUR_TOKENS': 'Tokens',
   'YOUR_ORDERS': 'Orders',
@@ -170,7 +170,7 @@ export default {
 
   // Stats Search General
   'HIGHEST_VOLUME': 'Highest Volume',
-  'MY_WALLET': 'My Wallet',
+  'MY_WALLET': 'My Portfolio',
   'MY_WATCHLIST': 'My Watchlist',
   'NEWEST_MARKETS': 'Newest Markets',
   'SEARCH_MARKETS': 'Search Markets',
